@@ -3,6 +3,8 @@ Two Stage Difference in Differences (DID) Use did2s With (In) R Software
 
 Estimates a TWFE model using the two-stage difference-in-differences approach from Gardner (2021) Use did2s With (In) R Software
 
+https://www.youtube.com/watch?v=bCRoyPDHcBs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
